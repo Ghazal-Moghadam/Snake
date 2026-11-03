@@ -1,0 +1,5 @@
+﻿<Solution>
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="AnkleBreaker.MCPForUnity.Editor.csproj" />
+  <Project Path="AnkleBreaker.MCPForUnity.Installer.Editor.csproj" />
+</Solution>
